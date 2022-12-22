@@ -1,0 +1,12 @@
+{
+  "name": "@base/base-utils",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "https://github.com/Tetcha/base-utils.git",
+  "author": "ducdauuu <dauleduc2@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
