@@ -1,3 +1,3 @@
-export const hello = () => {
-  console.log("Hello World from utils!");
+export const hello = (string?: string) => {
+  console.log(`Hello ${string || "world"}!`);
 };
